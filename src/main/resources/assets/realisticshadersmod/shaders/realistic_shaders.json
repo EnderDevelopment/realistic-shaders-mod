@@ -1,0 +1,24 @@
+{
+  "shaders": {
+    "grass": {
+      "sway": true,
+      "wind_affected": true
+    },
+    "plants": {
+      "movement": true,
+      "wind_affected": true
+    },
+    "sky": {
+      "realistic": true,
+      "clouds": true
+    },
+    "fire": {
+      "realistic": true,
+      "brightness": true
+    },
+    "metal": {
+      "shiny": true,
+      "sunlight_reflection": true
+    }
+  }
+}
